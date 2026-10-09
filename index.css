@@ -1,0 +1,47 @@
+header{
+    background-color: rgb(238, 245, 251);
+}
+
+body{
+    background-color: rgb(180, 208, 232);
+}
+
+/*nav{
+    background-color: aliceblue;
+}*/
+
+.nav-button{
+    background-color: rgb(165, 188, 209);
+    color: aliceblue;
+}
+
+h1{
+    color: rgb(165, 188, 209);
+}
+
+h2{
+    color: rgb(198, 223, 246);
+    background-color: aliceblue;
+}
+
+h3{
+    color: rgb(119, 144, 168);
+}
+
+p{
+    color: aliceblue;
+}
+
+li{
+    color: aliceblue;
+}
+
+figcaption{
+    color: aliceblue;
+}
+
+.plate {
+    border-radius: 20px;
+    border: 30px solid aliceblue; 
+}
+/*rgb(180, 208, 232)*/
